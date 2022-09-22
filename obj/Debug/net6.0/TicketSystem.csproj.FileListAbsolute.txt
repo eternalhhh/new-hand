@@ -1,0 +1,15 @@
+D:\Code\7.Visual studio\1.C sharp\TicketSystem\bin\Debug\net6.0\TicketSystem.exe
+D:\Code\7.Visual studio\1.C sharp\TicketSystem\bin\Debug\net6.0\TicketSystem.deps.json
+D:\Code\7.Visual studio\1.C sharp\TicketSystem\bin\Debug\net6.0\TicketSystem.runtimeconfig.json
+D:\Code\7.Visual studio\1.C sharp\TicketSystem\bin\Debug\net6.0\TicketSystem.dll
+D:\Code\7.Visual studio\1.C sharp\TicketSystem\bin\Debug\net6.0\TicketSystem.pdb
+D:\Code\7.Visual studio\1.C sharp\TicketSystem\obj\Debug\net6.0\TicketSystem.csproj.AssemblyReference.cache
+D:\Code\7.Visual studio\1.C sharp\TicketSystem\obj\Debug\net6.0\TicketSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\7.Visual studio\1.C sharp\TicketSystem\obj\Debug\net6.0\TicketSystem.AssemblyInfoInputs.cache
+D:\Code\7.Visual studio\1.C sharp\TicketSystem\obj\Debug\net6.0\TicketSystem.AssemblyInfo.cs
+D:\Code\7.Visual studio\1.C sharp\TicketSystem\obj\Debug\net6.0\TicketSystem.csproj.CoreCompileInputs.cache
+D:\Code\7.Visual studio\1.C sharp\TicketSystem\obj\Debug\net6.0\TicketSystem.dll
+D:\Code\7.Visual studio\1.C sharp\TicketSystem\obj\Debug\net6.0\refint\TicketSystem.dll
+D:\Code\7.Visual studio\1.C sharp\TicketSystem\obj\Debug\net6.0\TicketSystem.pdb
+D:\Code\7.Visual studio\1.C sharp\TicketSystem\obj\Debug\net6.0\TicketSystem.genruntimeconfig.cache
+D:\Code\7.Visual studio\1.C sharp\TicketSystem\obj\Debug\net6.0\ref\TicketSystem.dll
